@@ -27,7 +27,7 @@
 <br />
 
 - 💼 I’m working as a **Software Engineer** in **Ha Noi, Viet Nam**
-- 💻 I'm currently a student of **Telecommunications Institute of Technology**
+- 💻 I'm a student of **Telecommunications Institute of Technology**
 
 <br />
 
